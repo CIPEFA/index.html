@@ -41,13 +41,13 @@
                 <ul class="nav navbar-nav navbar-right">
 
                     <!-- navigation menu -->
-                    <li class="active"><a data-scroll href="#about">About</a></li>
-                    <li><a data-scroll href="#speakers">Speakers</a></li>              
-                    <li><a data-scroll href="#schedule">Schedule</a></li>                  
+                    <li class="active"><a data-scroll href="#about">&iquestQuienes Somos?</a></li>
+                    <li><a data-scroll href="#speakers">Ponentes</a></li>              
+                    <li><a data-scroll href="#schedule">Programacion</a></li>                  
                     <li><a data-scroll href="#partner">Patrocinadores</a></li>                  
                     <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
                     <li><a data-scroll href="#faq">FAQ</a></li>
-                    <li><a data-scroll href="#photos">Photos</a></li>
+                    <li><a data-scroll href="#photos">Galeria</a></li>
                 
                 </ul>
             </div>
@@ -564,7 +564,7 @@
                 <div class="col-sm-3">
                     <h3 class="section-title">Ubicacion del evento</h3>
                     <address>
-                        <p>Eardenia<br> The Grand Hall<br> House # 08, Road #52, Street<br> Phone: +1159t3764<br> Email: example@mail.com</p>
+                        <p>Universidad Nacional de Ingenier&#237a<br><br> Lugar 1: FIEECS<br>Lugar 2: CTIC<br><br> Av. T&#250pac Amaru 210<br> R&#237mac, Lima<br><br> E-mail: cipefa2017@gmail.com</p>
                     </address>
                 </div>
                 <div class="col-sm-9">
