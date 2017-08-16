@@ -24,7 +24,7 @@
                         <!-- logo image  -->
                         <img src="assets/images/logo.png" alt="Logo">
 
-                        CIPEFA 2017
+                        Conference 2015
                     </a>
                 </div>
 
@@ -41,10 +41,10 @@
                 <ul class="nav navbar-nav navbar-right">
 
                     <!-- navigation menu -->
-                    <li class="active"><a data-scroll href="#about">About</a></li>
-                    <li><a data-scroll href="#speakers">Speakers</a></li>              
+                    <li class="active"><a data-scroll href="#about">¿Quienes Somos?</a></li>
+                    <li><a data-scroll href="#speakers">Ponentes</a></li>              
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
-                    <li><a data-scroll href="#partner">Patrocinadores</a></li>                  
+                    <li><a data-scroll href="#partner">Partner</a></li>                  
                     <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
                     <li><a data-scroll href="#faq">FAQ</a></li>
                     <li><a data-scroll href="#photos">Photos</a></li>
@@ -57,13 +57,13 @@
     <header id="site-header" class="site-header valign-center"> 
         <div class="intro">
 
-            <h2>5, 6 Y 7 DE OCTUBRE DEL 2017</h2>
+            <h2>25 April, 2015 / Townhall California</h2>
             
-            <h1>I CONFERENCIA INTERNACIONAL DE PROCESOS ESTOCASTICOS, FENOMENOS ALEATORIOS Y SUS APLICACIONES</h1>
+            <h1>Freelancer Conference 2015</h1>
             
-            <p>I CIPEFA 2017</p>
+            <p>First &amp; Largest Conference</p>
             
-            <a class="btn btn-white" data-scroll href="#registration">Registrate ahora</a>
+            <a class="btn btn-white" data-scroll href="#registration">Register Now</a>
         
         </div>
     </header>
@@ -139,7 +139,7 @@
             <div class="row">
                 <div class="col-md-12">
 
-                    <h3 class="section-title">Speakers</h3>
+                    <h3 class="section-title">Ponentes Invitados</h3>
                 
                 </div>
             </div>
@@ -152,9 +152,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
                         </figure>
 
-                        <h4>Jhon Smith</h4>
+                        <h4>Helder Rojas</h4>
 
-                        <p>CEO of Peren</p>
+                        <p>PhD. Student Matematicas Aplicadas</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -394,7 +394,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Patrocinadores</h3>
+                    <h3 class="section-title">Event Partner</h3>
                 </div>
             </div>
             <div class="row">
@@ -562,14 +562,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <h3 class="section-title">Ubicacion del evento</h3>
+                    <h3 class="section-title">Event Location</h3>
                     <address>
                         <p>Eardenia<br> The Grand Hall<br> House # 08, Road #52, Street<br> Phone: +1159t3764<br> Email: example@mail.com</p>
                     </address>
                 </div>
                 <div class="col-sm-9">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3541845828972!2d-77.04826206065147!3d-12.019119699614748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4dffffbdea52f7a0!2sFacultad+de+Ingenier%C3%ADa+Econ%C3%B3mica%2C+Estad%C3%ADstica+y+CCSS.!5e0!3m2!1ses-419!2spe!4v1502861671100" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FCIPEFA2017%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96706.50013548559!2d-78.9870674333782!3d40.76030630398601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sbd!4v1436299406518" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -582,7 +581,7 @@
                     <p class="site-info">Designed and <br> Developed by <a href="http://technextit.com">Technext Limited</a></p>
                     <ul class="social-block">
                         <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                        <li><a href="https://www.facebook.com/CIPEFA2017/"><i class="ion-social-facebook"></i></a></li>
+                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
                         <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
                         <li><a href=""><i class="ion-social-googleplus"></i></a></li>
                     </ul>
