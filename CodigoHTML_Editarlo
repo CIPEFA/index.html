@@ -139,7 +139,7 @@
             <div class="row">
                 <div class="col-md-12">
 
-                    <h3 class="section-title">Speakers</h3>
+                    <h3 class="section-title">Ponentes</h3>
                 
                 </div>
             </div>
@@ -152,9 +152,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
                         </figure>
 
-                        <h4>Jhon Smith</h4>
+                        <h4>Helder Rojas</h4>
 
-                        <p>CEO of Peren</p>
+                        <p>PhD. Student Matematicas Aplicadas (IME-USP - Brasil)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -173,9 +173,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
                         </figure>
 
-                        <h4>Jhon Smith</h4>
+                        <h4>Carlos Abanto</h4>
 
-                        <p>CEO of Peren</p>
+                        <p>PhD. Estadistica (UFRJ - Brasil)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -194,9 +194,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
                         </figure>
 
-                        <h4>Jhon Smith</h4>
+                        <h4>Rocio Joo</h4>
 
-                        <p>CEO of Peren</p>
+                        <p>PhD. en Ecosistemas (Montpellier II- Francia)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -218,9 +218,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
                         </figure>
 
-                        <h4>Jhon Smith</h4>
+                        <h4>Vilma Romero</h4>
 
-                        <p>CEO of Peren</p>
+                        <p>MSc. Estadística (Lancaster-UK)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
