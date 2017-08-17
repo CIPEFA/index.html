@@ -24,7 +24,7 @@
                         <!-- logo image  -->
                         <img src="assets/images/logo.png" alt="Logo">
 
-                        CIPEFA 2017
+                        I CIPEFA 2017
                     </a>
                 </div>
 
@@ -42,13 +42,14 @@
 
                     <!-- navigation menu -->
                     <li class="active"><a data-scroll href="#about">&iquestQuienes Somos?</a></li>
+                    <li><a data-scroll href="#poster">Poster</a></li>
                     <li><a data-scroll href="#speakers">Ponentes</a></li>              
                     <li><a data-scroll href="#schedule">Programacion</a></li>                  
                     <li><a data-scroll href="#partner">Patrocinadores</a></li>                  
                     <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
                     <li><a data-scroll href="#faq">FAQ</a></li>
                     <li><a data-scroll href="#photos">Galeria</a></li>
-                
+
                 </ul>
             </div>
         </div><!-- /.container -->
@@ -103,31 +104,71 @@
         </div><!-- /.container -->
     </section>
 
+
+
+    <section id="poster" class="section poster">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Poster del Evento</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="grid">
+                        
+                        <li class="grid-item grid-item-sm-7">
+                            <img alt="" class="img-responsive center-block" src="assets/images/poster/poster-1.jpg">
+                        </li>
+                    </ul>
+                </div>
+            </div>            
+        </div>
+    </section>
+
     <section id="facts" class="section bg-image-1 facts text-center">
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
 
                     <i class="ion-ios-calendar"></i>
-                    <h3>2015<br>June 25</h3>
+                    <h3>2017<br>Octubre 5,6 y 7</h3>
                 
                 </div>
                 <div class="col-sm-3">
 
                     <i class="ion-ios-location"></i>
-                    <h3>California<br>USA</h3>
+                    <h3>Lima<br>Peru</h3>
                 
                 </div>
                 <div class="col-sm-3">
 
                     <i class="ion-pricetags"></i>
-                    <h3>150<br>Tickets</h3>
+                    <h3>200<br>Tickets</h3>
                 
                 </div>
                 <div class="col-sm-3">
                 
                     <i class="ion-speakerphone"></i>
-                    <h3>06<br>Speakers</h3>
+                    <h3>11<br>Ponentes</h3>
+                
+                </div>
+		<div class="col-sm-3">
+                
+                    <i class="ion-ios-folder"></i>
+                    <h3>4<br>Proyectos de<br> Investigacion </h3>
+                
+                </div>
+		<div class="col-sm-3">
+                
+                    <i class="ion-bookmark"></i>
+                    <h3>4<br>Minicursos</h3>
+                
+                </div>
+		<div class="col-sm-3">
+                
+                    <i class="ion-ios-people"></i>
+                    <h3>Mesa <br>Redonda</h3>
                 
                 </div>
             </div><!-- row -->
@@ -518,39 +559,39 @@
                     <ul class="grid">
                         
                         <li class="grid-item grid-item-sm-6">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-1.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos1.jpg">
                         </li>
 
-                        <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-2.jpg">
+                        <li class="grid-item grid-item-sm-6">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos2.jpg">
                         </li>
 
-                        <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-3.jpg">
+                        <li class="grid-item grid-item-sm-4">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos3.jpg">
                         </li>
                     
-                        <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-5.jpg">
+                        <li class="grid-item grid-item-sm-5">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos5.jpg">
                         </li>
 
                         <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-6.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos6.jpg">
                         </li>
 
                         <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-7.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos7.jpg">
                         </li>
 
                         <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-8.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos4.jpg">
                         </li>
 
                         <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-2.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos8.jpg">
                         </li>
 
                         <li class="grid-item grid-item-sm-3">
-                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-3.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos3.jpg">
                         </li>
                     </ul>
                 </div>
