@@ -428,9 +428,9 @@
                         <figure>
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
                         </figure>
-                        <h4>Rafael Capar&oacute</h4>
-                        <p>Mg. Econometr&iacutea y Estad&iacutestica</p>
-			<p>(Universidad de Estrasburgo-Francia)</p>
+                        <h4>Gonzalo Panizo</h4>
+                        <p>PhD. Matem&aacutetica Pura</p>
+			<p>(IMPA-Brasil)</p>
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
                             <li><a href=""><i class="ion-social-facebook"></i></a></li>
@@ -440,68 +440,7 @@
                     </div>
                 </div>
             </div>
-	    <div class="row">
-                <div class="col-md-4">
-
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
-                        </figure>
-
-                        <h4>Vilma Romero</h4>
-
-                        <p>MSc. Estadística</p>
-			<p>(Lancaster-UK)</p>
-
-                        <ul class="social-block">
-                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
-                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-4">
-
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
-                        </figure>
-
-                        <h4>Erick Chac&oacuten</h4>
-
-                        <p>PhD. Student Estad&iacutestica y Epidemiolog&iacutea</p>
-			<p>(Lancaster-UK)</p>
-
-                        <ul class="social-block">
-                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
-                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="speaker">
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
-                        </figure>
-                        <h4>Rafael Capar&oacute</h4>
-                        <p>Mg. Econometr&iacutea y Estad&iacutestica</p>
-			<p>(Universidad de Estrasburgo-Francia)</p>
-                        <ul class="social-block">
-                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
-                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+	   
         </div>
     </section>
     
