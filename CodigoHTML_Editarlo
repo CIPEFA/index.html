@@ -196,6 +196,7 @@
                         <h4>Helder Rojas</h4>
 
                         <p>PhD. Student Matematicas Aplicadas (IME-USP - Brasil)</p>
+			<p>(IME-USP - Brasil)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -217,6 +218,7 @@
                         <h4>Carlos Abanto</h4>
 
                         <p>PhD. Estadistica (UFRJ - Brasil)</p>
+			<p>(UFRJ - Brasil)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -237,7 +239,8 @@
 
                         <h4>Rocio Joo</h4>
 
-                        <p>PhD. en Ecosistemas (Montpellier II- Francia)</p>
+                        <p>PhD. en Ecosistemas</p>
+			<p>(Montpellier II- Francia)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -261,7 +264,8 @@
 
                         <h4>Vilma Romero</h4>
 
-                        <p>MSc. Estadística (Lancaster-UK)</p>
+                        <p>MSc. Estadística</p>
+			<p>(Lancaster-UK)</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -279,9 +283,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
                         </figure>
 
-                        <h4>Jhon Smith</h4>
+                        <h4>Erick Chacon</h4>
 
-                        <p>CEO of Peren</p>
+                        <p>PhD. Student Estadistica y Epidemiologia</p>
 
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -298,8 +302,8 @@
                         <figure>
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
                         </figure>
-                        <h4>Jhon Smith</h4>
-                        <p>CEO of Peren</p>
+                        <h4>Rafael Capar&oacute</h4>
+                        <p>Mg. Econometr&iacutea y Estad&iacutestica</p>
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
                             <li><a href=""><i class="ion-social-facebook"></i></a></li>
