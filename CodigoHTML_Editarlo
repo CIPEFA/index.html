@@ -69,43 +69,39 @@
         </div>
     </header>
 
-    <section id="about" class="section about">
+<section id="about" class="section about">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
 
-                    <h3 class="section-title">About Us</h3>
+                    <h3 class="section-title">Sobre Nosotros</h3>
 
-                    <p>You've inspired new consumer, racked up click-thru's, blown-up brand enes. We can't give you back the weekends you worked, or erase the pain ebeing forced to make the logo bigger. But if you submit your best work we ajusts might be able to give the chance to show you best digital marketing.</p>
-
-                    <figure>
-                        <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
-                    </figure>
+                    <p align="justify">La teor&#237a de Probabilidad y Procesos Estoc&#225sticos se han convertido en herramientas indispensables para hacer frente a fen&#243menos aleatorios en casi todas las ramas de la ciencia. Hoy en d&#237a, adem&#225s de su s&#243lida posici&#243n como &#225rea completa dentro de las matem&#225ticas y sus interacciones con el an&#225lisis, las ecuaciones diferenciales parciales, geometr&#237a, teor&#237a de n&#250meros y f&#237sica matem&#225tica, la teor&#237a de probabilidad forma parte del lenguaje estad&#237stico y de las ciencias sociales cuantitativas. Es esencial en el descubrimiento y estudio de regularidades macrosc&#243picas que ocurren cuando grandes sistemas de part&#237culas interact&#250an, como por ejemplo los organismos o agentes que interact&#250an de acuerdo con leyes f&#237sicas, biol&#243gicas o econ&#243micas, algunas &#225reas de aplicaci&#243n directa son: estudio de din&#225mica de precios de instrumentos financieros negociados en mercados 
+					electr&#243nicos; estudio de gen&#233tica y evoluci&#243n de poblaciones; estudio de se&ntildeales que se transmiten a trav&#233s de un canal ruidoso; dise&ntildeo y an&#225lisis de comunicaciones a gran escala, entendimiento de la sinapsis e interacci&#243n de neuronas en actividades cerebrales, algoritmos para optimizaci&#243n combinatoria, tomograf&#237a computacional, procesamiento de se&ntildeales, reconocimiento de patrones, etc.
+					Con el objetivo de promover la investigaci&#243n en estas &#225reas afines entre acad&#233micos, as&#237 como su difusi&#243n entre investigadores, profesionales y estudiantes, la Escuela Profesional de Ingenier&#237a Estad&#237stica de la universidad Nacional de Ingenier&#237a organizan la primera Conferencia Internacional en Procesos Estoc&#225sticos, Fen&#243menos Aleatorios y su Aplicaciones (CIPEFA-2017).
+		     </p>
+                    
 
                 </div><!-- /.col-sm-6 -->
 
                 <div class="col-sm-6">
 
-                    <h3 class="section-title multiple-title">What is Our Goal?</h3>
+                    <h3 class="section-title multiple-title">Objetivo General</h3>
 
-                    <p>You've inspired new consumer, racked up click-thru's, blown-up brand enes. We can't give you back the weekends you worked, or erase the pain ebeing forced to make the logo bigger. But if you submit your best work we ajusts might be able to give the chance to show you best digital marketing.</p>
+                    <p align="justify">Promover el intercambio de ideas y experiencias que puedan coadyuvar al desarrollo de estrategias y acciones de orden pr&#225ctico para fortalecer la investigaci&#243n y aplicaci&#243n de temas relacionados con Procesos estoc&#225sticos, Estad&#237stica y Econometr&#237a.</p>
 
                     <ul class="list-arrow-right">
 
-                        <li>Learn from the best Asian Social Media Experts &amp; Case Studies</li>
-                        <li>Have dedicated 2-to-1 meetings with the experts</li>
-                        <li>Reach more consumers for less by learning new digital media skills</li>
-                        <li>Save money when spending in online advertising</li>
-                    
+                        <li>Para mayor informaci&#243n puede entrar a nuestro facebook: <a href="https://www.facebook.com/CIPEFA2017/"> www.facebook.com/CIPEFA2017/</a></li>
+                    	
                     </ul>
-
+		    <figure>
+                        <img alt="" class="img-responsive" src="assets/images/sobre-nosotros.jpg">
+                    </figure>
                 </div><!-- /.col-sm-6 -->
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>
-
-
-
     <section id="poster" class="section poster">
         <div class="container">
             <div class="row">
@@ -585,11 +581,11 @@
         </div>
     </section>
 
-    <section id="registration" class="section registration">
+   <section id="registration" class="section registration">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Registration &amp; Pricing</h3>
+                    <h3 class="section-title">Registro</h3>
                 </div>
             </div>
                 
@@ -600,53 +596,60 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="First Name" id="fname" name="fname" required>
+                            <input type="text" class="form-control" placeholder="C&oacute;digo de Boleta" id="zip" name="zip" required>
+                        </div>
+
+			<div class="form-group">
+                            <input type="text" class="form-control" placeholder="Nombre" id="fname" name="fname" required>
                         </div>
 
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Last Name" id="lname" name="lname" required>
+                            <input type="text" class="form-control" placeholder="Apellido" id="lname" name="lname" required>
                         </div>
 
                         <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Email" id="email" name="email" required>
+                            <input type="email" class="form-control" placeholder="Correo Electr&oacute;nico" id="email" name="email" required>
                         </div>
 
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Phone" id="cell" name="cell" required>
-                        </div>
                     </div>
 
                     <div class="col-sm-6">
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Address" id="address" name="address" required>
+			<div class="form-group">
+                            <input type="text" class="form-control" placeholder="Tel&eacute;fono" id="cell" name="cell" required>
                         </div>
 
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Zip Code" id="zip" name="zip" required>
+                            <input type="text" class="form-control" placeholder="Instituci&oacute;n de Procedencia" id="address" name="address" required>
                         </div>
 
                         <div class="form-group">
-                            <select class="form-control" name="city" id="city" required>
-                                <option readonly>City</option>
-                                <option>City Name 1</option>
-                                <option>City Name 2</option>
-                                <option>City Name 3</option>
-                                <option>City Name 4</option>
+                            <select class="form-control" name="Pa&iacute;s" id="city" required>
+                                <option readonly>Pa&iacute;s</option>
+                                <option>Argentina</option>
+				<option>Bolivia</option>
+				<option>Brasil</option>
+                                <option>Chile</option>
+                                <option>Colombia</option>
+                                <option>Ecuador</option>
+				<option>M&eacute;xico</option>
+				<option>Paraguay</option>
+                                <option>Per&uacute;</option>
+				<option>Uruguay</option>
+				<option>Otro</option>
                             </select>
                         </div>
 
                         <div class="form-group">
                             <select class="form-control" name="program" id="program" required>
-                                <option readonly>Select Your Program</option>
-                                <option>Program Name 1</option>
-                                <option>Program Name 2</option>
-                                <option>Program Name 3</option>
+                                <option readonly>Seleccione su minicurso</option>
+                                <option>Minicurso 1 y 3</option>
+                                <option>Minicurso 2 y 4</option>
                             </select>
                         </div>
                     </div>
                 </div>
                 <div class="text-center mt20">
-                    <button type="submit" class="btn btn-black" id="registration-submit-btn">Submit</button>
+                    <button type="Submit" class="btn btn-black" id="registration-submit-btn">Enviar</button>
                 </div>
             </form>
         </div>
