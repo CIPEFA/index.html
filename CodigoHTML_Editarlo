@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Conference</title>
+ 
 
     <!-- css -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -379,7 +380,7 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
                         </figure>
 
-                        <h4>Jose Hern&aacutendez</h4>
+                        <h4>Jose Cerda</h4>
 
                         <p>PhD. Probabilidad y Estad&iacutestica</p>
 			<p>(IME-USP- BRASIL)</p>
@@ -490,9 +491,9 @@
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
                         </figure>
 
-                        <h4>"Bayesian estimation in accidents insurance: An application of credibility theory"</h4>
+                        <h4>Cristian Fischer, Fabrizzio Vasquez y Karen Velasquez"</h4>
 
-                        <p>Cristian Fischer, Fabrizzio Vasquez y Karen Velasquez</p>
+                        <p>Bayesian estimation in accidents insurance: An application of credibility theory"</p>
 			<p>Asesor: Carlos Abanto</p>
 
                         <ul class="social-block">
