@@ -44,11 +44,11 @@
                     <li class="active"><a data-scroll href="#about">&iquestQuienes Somos?</a></li>
                     <li><a data-scroll href="#poster">Poster</a></li>
                     <li><a data-scroll href="#speakers">Ponentes</a></li>              
-                    <li><a data-scroll href="#schedule">Programacion</a></li>                  
+                    <li><a data-scroll href="#schedule">Programaci&#211n</a></li>                  
                     <li><a data-scroll href="#partner">Patrocinadores</a></li>                  
                     <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
                     <li><a data-scroll href="#faq">FAQ</a></li>
-                    <li><a data-scroll href="#photos">Galeria</a></li>
+                    <li><a data-scroll href="#photos">Galer&#205a</a></li>
 
                 </ul>
             </div>
@@ -60,16 +60,16 @@
 
             <h2>5, 6 Y 7 DE OCTUBRE DEL 2017</h2>
             
-            <h1>I CONFERENCIA INTERNACIONAL DE PROCESOS ESTOCASTICOS, FENOMENOS ALEATORIOS Y SUS APLICACIONES</h1>
+            <h1>I CONFERENCIA INTERNACIONAL DE PROCESOS ESTOC&#193STICOS, FEN&#211MENOS ALEATORIOS Y SUS APLICACIONES</h1>
             
             <p>I CIPEFA 2017</p>
             
-            <a class="btn btn-white" data-scroll href="#registration">Registrate ahora</a>
+            <a class="btn btn-white" data-scroll href="#registration">Reg&#237strate ahora</a>
         
         </div>
     </header>
 
-<section id="about" class="section about">
+    <section id="about" class="section about">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
@@ -102,6 +102,9 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>
+
+
+
     <section id="poster" class="section poster">
         <div class="container">
             <div class="row">
@@ -128,7 +131,7 @@
                 <div class="col-sm-3">
 
                     <i class="ion-ios-calendar"></i>
-                    <h3>2017<br>Octubre 5,6 y 7</h3>
+                    <h3>2017<br>Octubre 5, 6 y 7</h3>
                 
                 </div>
                 <div class="col-sm-3">
@@ -323,7 +326,7 @@
 
                         <h4>Mauricio Junca</h4>
 
-                        <p>PhD. Ing. Industrial e Inv. Operativa</p>
+                        <p>PhD. Ing. Industrial e Investigaci&oacuten Operativa</p>
 			<p>(California,Berkeley-USA)</p>
 
                         <ul class="social-block">
@@ -424,9 +427,9 @@
                         <figure>
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
                         </figure>
-                        <h4>Gonzalo Panizo</h4>
-                        <p>PhD. Matem&aacutetica Pura</p>
-			<p>(IMPA-Brasil)</p>
+                        <h4>Rafael Capar&oacute</h4>
+                        <p>Mg. Econometr&iacutea y Estad&iacutestica</p>
+			<p>(Universidad de Estrasburgo-Francia)</p>
                         <ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
                             <li><a href=""><i class="ion-social-facebook"></i></a></li>
@@ -436,41 +439,69 @@
                     </div>
                 </div>
             </div>
-	   
+	    <div class="row">
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                        </figure>
+
+                        <h4>Vilma Romero</h4>
+
+                        <p>MSc. Estadística</p>
+			<p>(Lancaster-UK)</p>
+
+                        <ul class="social-block">
+                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
+                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
+                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
+                        </figure>
+
+                        <h4>Erick Chac&oacuten</h4>
+
+                        <p>PhD. Student Estad&iacutestica y Epidemiolog&iacutea</p>
+			<p>(Lancaster-UK)</p>
+
+                        <ul class="social-block">
+                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
+                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
+                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="speaker">
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+                        </figure>
+                        <h4>Rafael Capar&oacute</h4>
+                        <p>Mg. Econometr&iacutea y Estad&iacutestica</p>
+			<p>(Universidad de Estrasburgo-Francia)</p>
+                        <ul class="social-block">
+                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
+                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
+                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
-    
-    
-    <section id="about" class="section about">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-
-                    <h3 class="section-title">Proyectos de Investigaci&oacuten</h3>
-
-                    <figure>
-                        <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
-                    </figure>
-		    
-		    <p>You've inspired new consumer, racked up click-thru's, blown-up brand enes. We can't give you back the weekends you worked, or erase the pain ebeing forced to make the logo bigger. But if you submit your best work we ajusts might be able to give the chance to show you best digital marketing.</p>
-
-
-                </div><!-- /.col-sm-6 -->
-
-                <div class="col-sm-6">
-
-                    <h3 class="section-title multiple-title">What is Our Goal?</h3>
-
-			<figure>
-                        <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
-                    </figure>
-		    
-		    <p>You've inspired new consumer, racked up click-thru's, blown-up brand enes. We can't give you back the weekends you worked, or erase the pain ebeing forced to make the logo bigger. But if you submit your best work we ajusts might be able to give the chance to show you best digital marketing.</p>
-  
-
-                </div><!-- /.col-sm-6 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
     </section>
     
     <section id="speakers" class="section speakers">
@@ -833,6 +864,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <ul class="grid">
+                        
                         <li class="grid-item grid-item-sm-6">
                             <img alt="" class="img-responsive center-block" src="assets/images/photos/photos1.jpg">
                         </li>
@@ -875,13 +907,10 @@
                         <p>Universidad Nacional de Ingenier&#237a<br><br> Lugar 1: FIEECS<br>Lugar 2: CTIC<br><br> Av. T&#250pac Amaru 210<br> R&#237mac, Lima<br><br> E-mail: cipefa2017@gmail.com</p>
                     </address>
                 </div>
-                <div class="col-sm-7">
+                <div class="col-sm-9">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3541845828972!2d-77.04826206065147!3d-12.019119699614748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4dffffbdea52f7a0!2sFacultad+de+Ingenier%C3%ADa+Econ%C3%B3mica%2C+Estad%C3%ADstica+y+CCSS.!5e0!3m2!1ses-419!2spe!4v1502861671100" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FCIPEFA2017%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
                 </div>
-		<div class="col-sm-2">
-		    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCIPEFA2017%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-		</div>
             </div>
         </div>
     </section>
