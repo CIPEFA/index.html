@@ -412,10 +412,10 @@
         </div>
     </section>
     
-    <section id="speakers" class="section speakers">
+    <section id="proyectos" class="section about">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-sm-6">
 
                     <h3 class="section-title">Proyectos de Investigaci&oacuten</h3>
                 
@@ -423,11 +423,11 @@
             </div>
 
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-sm-6">
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/grupo1.jpg">
                         </figure>
 
                         <h4>Cristian Vergara y Alexander Villar</h4>
