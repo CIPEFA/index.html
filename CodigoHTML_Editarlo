@@ -324,7 +324,7 @@
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/montecastro.jpg">
                         </figure>
 
                         <h4>Bruno Monte de Castro</h4>
@@ -359,7 +359,7 @@
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/beltran.jpg">
                         </figure>
 
                         <h4>Johel Beltr&aacuten</h4>
@@ -377,7 +377,7 @@
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/cerda.jpg">
                         </figure>
 
                         <h4>Jose Cerda</h4>
@@ -395,7 +395,7 @@
                 <div class="col-md-4">
                     <div class="speaker">
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/panizo.jpg">
                         </figure>
                         <h4>Gonzalo Panizo</h4>
                         <p>PhD. Matem&aacutetica Pura</p>
