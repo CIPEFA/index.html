@@ -442,11 +442,11 @@
                     </div><!-- /.speaker -->
                 </div><!-- /.col-md-4 -->
 
-                <div class="col-md-4">
+                <div class="col-sm-6">
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/grupo2.jpg">
                         </figure>
 
                         <h4>Ricardo Quiroz y Alberto Tiahuallpa</h4>
@@ -464,12 +464,12 @@
             </div><!-- /.row -->
 
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-sm-6">
 
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/grupo3.jpg">
                         </figure>
 
                         <h4>Christian Amao y Aron Paz</h4>
@@ -488,7 +488,7 @@
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
+                            <img alt="" class="img-responsive center-block" src="assets/images/grupo4.jpg">
                         </figure>
 
                         <h4>Cristian Fischer, Fabrizzio Vasquez y Karen Velasquez</h4>
