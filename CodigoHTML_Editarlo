@@ -1014,9 +1014,44 @@
                     </address>
                 </div>
                 <div class="col-sm-7">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3541845828972!2d-77.04826206065147!3d-12.019119699614748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4dffffbdea52f7a0!2sFacultad+de+Ingenier%C3%ADa+Econ%C3%B3mica%2C+Estad%C3%ADstica+y+CCSS.!5e0!3m2!1ses-419!2spe!4v1502861671100" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-		    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FCIPEFA2017%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-                </div>
+			<style>
+			.google-maps {
+			position: relative;
+			padding-bottom: 75%; // This is the aspect ratio
+			height: 0;
+			overflow: hidden;
+			}
+			.google-maps iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100% !important;
+			height: 100% !important;
+			}
+			</style>
+
+			<div class="google-maps">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3541845828972!2d-77.04826206065147!3d-12.019119699614748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4dffffbdea52f7a0!2sFacultad+de+Ingenier%C3%ADa+Econ%C3%B3mica%2C+Estad%C3%ADstica+y+CCSS.!5e0!3m2!1ses-419!2spe!4v1502861671100" width="600" height="450" frameborder="0" style="border:0"></iframe>
+			</div>
+		    <style>
+			.google-maps {
+			position: relative;
+			padding-bottom: 75%; // This is the aspect ratio
+			height: 0;
+			overflow: hidden;
+			}
+			.google-maps iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100% !important;
+			height: 100% !important;
+			}
+			</style>
+
+			<div class="google-maps">
+			<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FCIPEFA2017%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" frameborder="0" style="border:0" scrolling="no" allowTransparency="true"></iframe>
+			</div>
 		<div class="col-sm-2">
 		    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCIPEFA2017%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 		</div>
