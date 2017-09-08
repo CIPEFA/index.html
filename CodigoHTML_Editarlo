@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Conference</title>
+    <title>I CIPEFA 2017 - UNI</title>
 
     <!-- css -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -41,12 +41,12 @@
                 <ul class="nav navbar-nav navbar-right">
 
                     <!-- navigation menu -->
-                    <li class="active"><a data-scroll href="#about">&iquestQuienes Somos?</a></li>
+                    <li class="active"><a data-scroll href="#about">&iquestQui&eacute;nes Somos?</a></li>
                     <li><a data-scroll href="#poster">Resumen</a></li>
                     <li><a data-scroll href="#schedule">Programaci&#243n</a></li>
-                    <li><a data-scroll href="#speakers">Ponentes</a></li>              
+                    <li><a data-scroll href="#speakers">Ponentes</a></li>
+		    <li><a data-scroll href="#proyectos">Proyectos de Investigaci&oacuten</a></li>            
                     <li><a data-scroll href="#partner">Patrocinadores</a></li>                  
-                    <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
                     <li><a data-scroll href="#faq">Consultas</a></li>
                     <li><a data-scroll href="#photos">Galer&#237a</a></li>
 
@@ -64,7 +64,7 @@
             
             <p>I CIPEFA 2017</p>
             
-            <a class="btn btn-white" data-scroll href="#registration">Registrate ahora</a>
+            <a class="btn btn-white" data-scroll href="#registration">Reg&iacute;strate ahora</a>
         
         </div>
     </header>
@@ -76,10 +76,10 @@
 
                     <h3 class="section-title">Sobre Nosotros</h3>
 
-                     <p align="justify">Somos un grupo conformado por estudiantes, profesores y egresados de la Escuela Profesional de Ingenieria Estadistica de la Universidad Nacional de Ingenieria. 
+                     <p align="justify">Somos un grupo conformado por estudiantes, profesores y egresados de la Escuela Profesional de Ingenier&iacute;a Estad&iacute;stica de la Universidad Nacional de Ingenier&iacute;a.  
 		     </p>
                     
-		     <p align="justify">Como grupo queremos difundir, fomentar y desarrollar la investigacion en el campo de los procesos estocasticos, la econometria y la estadistica con sus diversas aplicaciones para el beneficio de la comunidad academica y la sociedad peruana.
+		     <p align="justify">Como grupo queremos difundir, fomentar y desarrollar la investigaci&oacute;n en el campo de los procesos estoc&aacute;sticos, la econometr&iacute;a y la estad&iacute;stica con sus diversas aplicaciones para el beneficio de la comunidad acad&eacute;mica y la sociedad peruana.
 		     </p>
 		    
 			<figure>
@@ -119,7 +119,7 @@
                 <div class="col-sm-3">
 
                     <i class="ion-ios-calendar"></i>
-                    <h3>2017<br>Octubre 5,6 y 7</h3>
+                    <h3>5, 6 y 7<br>de Octubre </h3>
                 
                 </div>
                 <div class="col-sm-3">
@@ -143,7 +143,7 @@
 		<div class="col-sm-3">
                 
                     <i class="ion-ios-folder"></i>
-                    <h3>4<br>Proyectos de<br> Investigacion </h3>
+                    <h3>4<br>Proyectos de<br> Investigaci&#243n </h3>
                 
                 </div>
 		<div class="col-sm-3">
@@ -168,366 +168,547 @@
         </div><!-- container -->
     </section>
 
-<section id="speakers" class="section speakers">
+     <section id="schedule" class="section schedule">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+		<div class="col-md-12">
+                    <h3 class="section-title">Programaci&oacute;n de Actividades</h3>
+                </div>                
 
-                    <h3 class="section-title">Ponentes</h3>
-                
-                </div>
+		<ul class="grid">
+                        <li class="grid-item grid-item-sm-5">
+                            <img alt="" class="img-responsive center-block" src="assets/images/programacion/programa1.jpg">
+                        </li> 
+
+			<p> .<br>  <br></p>
+ 
+                        <li class="grid-item grid-item-sm-5">
+                            <img alt="" class="img-responsive center-block" src="assets/images/programacion/programa2.jpg">
+                        </li>
+			<p> .<br>  <br> </p>
+                        <li class="grid-item grid-item-sm-5">
+                            <img alt="" class="img-responsive center-block" src="assets/images/programacion/programa3.jpg">
+                        </li>        
+          	</ul>
+
             </div>
+            
+         
+            </div>
+    </section>
 
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="speaker">
+<section id="speakers" class="section speakers">
+        
+	<div class="container">
+            
+		<div class="row">
+                
+			<div class="col-md-12">
 
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
-                        </figure>
+                    
+			<h3 class="section-title">Ponentes</h3>
 
-                        <h4>Helder Rojas</h4>
+                
+        </div>
+   
+	        </div>
 
-                        <p>PhD. Student Matematicas Aplicadas</p>
+
+       <div class="row">
+  
+		<div class="col-md-4">
+  
+		<div class="speaker">
+
+ 
+		<figure>
+		<img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
+
+                </figure>
+
+  
+           <h4>Helder Rojas</h4>
+
+		 <p>PhD. Student Matem&aacute;ticas Aplicadas</p>
+
 			<p>(IME-USP - Brasil)</p>
 
-                        <ul class="social-block">
 
-                        </ul>
+                        <ul class="social-block"></ul>
+
 
                     </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
+</div><!-- /.col-md-4 -->
 
-                <div class="col-md-4">
-                    <div class="speaker">
+  
+         <div class="col-md-4">
+   
+		<div class="speaker">
+
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
-                        </figure>
 
-                        <h4>Carlos Abanto</h4>
+		<img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
 
+			</figure>
+		<h4>Carlos Abanto</h4>
                         <p>PhD. en Estad&iacutestica</p>
+
 			<p>(UFRJ - Brasil)</p>
 
+
                         <ul class="social-block">
-                            <li><a href="https://sites.google.com/site/cabantovalle/research"><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="https://sites.google.com/site/cabantovalle/research"><i class="ion-link"></i></a></li>
+
                         </ul>
 
+
                     </div><!-- /.speaker -->
+
                 </div><!-- /.col-md-4 -->
 
+
                 <div class="col-md-4">
+
                     <div class="speaker">
 
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
+
                         </figure>
+
 
                         <h4>Rocio Joo</h4>
 
+
                         <p>PhD. en Ecosistemas</p>
+
 			<p>(Montpellier II- Francia)</p>
 
+
                         <ul class="social-block">
-                            <li><a href="https://pe.linkedin.com/in/rocio-joo-2a3a429a"><i class="ion-social-linkedin-outline"></i></a></li>
+
+                  <li><a href="https://pe.linkedin.com/in/rocio-joo-2a3a429a"><i class="ion-social-linkedin-outline"></i></a></li>
+
                         </ul>
 
+
                     </div><!-- /.speaker -->
+
                 </div><!-- /.col-md-4 -->
+
             </div><!-- /.row -->
 
+
             <div class="row">
+
                 <div class="col-md-4">
+
 
                     <div class="speaker">
 
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+
                         </figure>
+
 
                         <h4>Vilma Romero</h4>
 
+
                         <p>MSc. Estad&#237stica</p>
+
 			<p>(Lancaster-UK)</p>
 
-                        <ul class="social-block">
-<li><a href="https://uk.linkedin.com/in/vilma-susana-romero-romero"><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href="https://vilmaromero.github.io/"><i class="ion-social-googleplus"></i></a></li>
+
+                        <ul class="social-block"><li><a href="https://uk.linkedin.com/in/vilma-susana-romero-romero"><i class="ion-social-linkedin-outline"></i></a></li>
+
+                            <li><a href="https://vilmaromero.github.io/"><i class="ion-link"></i></a></li>
+
+
                         </ul>
+
                     </div>
+
                 </div>
+
                 <div class="col-md-4">
+
 
                     <div class="speaker">
 
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
+
                         </figure>
+
 
                         <h4>Erick Chac&oacuten</h4>
 
+
                         <p>PhD. Student Estad&iacutestica y Epidemiolog&iacutea</p>
+
 			<p>(Lancaster-UK)</p>
 
+
                         <ul class="social-block">
+
  			<li><a href="https://uk.linkedin.com/in/erick-chacon-montalvan-7bba9141"><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href="https://erickchacon.github.io/"><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="https://erickchacon.github.io/"><i class="ion-link"></i></a></li>
+
                         </ul>
 
+
                     </div>
-                </div>
+ 
+               </div>
+
 
                 <div class="col-md-4">
+
                     <div class="speaker">
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+
                         </figure>
+
                         <h4>Rafael Capar&oacute</h4>
-                        <p>Mg. Econometr&iacutea y Estad&iacutestica</p>
+
+                        <p>Msc. Econometr&iacutea y Estad&iacutestica</p>
+
 			<p>(Estrasburgo-Francia)</p>
+
                         <ul class="social-block">
+
                             <li><a href="https://pe.linkedin.com/in/rafael-capar&#243-741516128"><i class="ion-social-linkedin-outline"></i></a></li>
+
                         </ul>
+
                     </div>
+
                 </div>
+
             </div>
+
 	    
 	    <div class="row">
+
                 <div class="col-md-4">
+
 
                     <div class="speaker">
 
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/junca.jpg">
+
                         </figure>
+
 
                         <h4>Mauricio Junca</h4>
 
-                        <p>PhD. Ing. Industrial e Investigaci&oacuten Operativa</p>
+
+                        <p>PhD. Operations Research</p>
+
 			<p>(California,Berkeley-USA)</p>
 
+
                         <ul class="social-block">
-                            <li><a href="https://matematicas.uniandes.edu.co/~mjunca/"><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="https://matematicas.uniandes.edu.co/~mjunca/"><i class="ion-link"></i></a></li>
+
                         </ul>
+
                     </div>
                 </div>
+
                 <div class="col-md-4">
+
 
                     <div class="speaker">
 
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/montecastro.jpg">
+
                         </figure>
+
 
                         <h4>Bruno Monte de Castro</h4>
 
+
                         <p>PhD. Probabilidad y Estad&iacutestica</p>
+
 			<p>(IME-USP - BRASIL)</p>
 
+
                         <ul class="social-block">
-                            <li><a href="https://www.escavador.com/sobre/522024/bruno-monte-de-castro"><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
+ 
+                           <li><a href="https://www.escavador.com/sobre/522024/bruno-monte-de-castro"><i class="ion-link"></i></a></li>
+ 
+                       </ul>
+
 
                     </div>
+
+
                 </div>
 
                 <div class="col-md-4">
+
                     <div class="speaker">
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/bayes.jpg">
+
                         </figure>
+
                         <h4>Cristian Bayes</h4>
+
                         <p>PhD. en Estad&iacutestica</p>
+
 			<p>(IME-USP - BRASIL)</p>
+
                         <ul class="social-block">
-                            <li><a href="http://www.pucp.edu.pe/profesor/cristian-bayes-rodriguez/"><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="http://www.pucp.edu.pe/profesor/cristian-bayes-rodriguez/"><i class="ion-link"></i></a></li>
+
                         </ul>
+
                     </div>
-                </div>
+ 
+               </div>
+
             </div>
+
 	    <div class="row">
+
                 <div class="col-md-4">
+
 
                     <div class="speaker">
 
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/beltran.jpg">
+
                         </figure>
+
 
                         <h4>Johel Beltr&aacuten</h4>
 
+
                         <p>PhD. Matem&aacutetica Pura</p>
+
 			<p>(IMPA-BRASIL)</p>
 
+
                         <ul class="social-block">
-                            <li><a href="http://www.pucp.edu.pe/profesor/johel-beltran-ramirez/"><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="http://www.pucp.edu.pe/profesor/johel-beltran-ramirez/"><i class="ion-link"></i></a></li>
+
                         </ul>
+
                     </div>
-                </div>
-                <div class="col-md-4">
+   
+             </div>
+ 
+               <div class="col-md-4">
+
 
                     <div class="speaker">
 
+
                         <figure>
+
                             <img alt="" class="img-responsive center-block" src="assets/images/speakers/cerda.jpg">
+
                         </figure>
+
 
                         <h4>Jose Cerda</h4>
 
+
                         <p>PhD. Probabilidad y Estad&iacutestica</p>
+
 			<p>(IME-USP- BRASIL)</p>
 
+
                         <ul class="social-block">
-                            <li><a href="http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=de32653a560f8be7f575ac66326b?id_investigador=106402"><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=de32653a560f8be7f575ac66326b?id_investigador=106402"><i class="ion-link"></i></a></li>
+
                         </ul>
 
+
                     </div>
+
                 </div>
 
-                <div class="col-md-4">
-                    <div class="speaker">
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/panizo.jpg">
-                        </figure>
+              
+
+  <div class="col-md-4">
+    
+	<div class="speaker">
+
+		<figure>
+ <img alt="" class="img-responsive center-block" src="assets/images/speakers/panizo.jpg">
+ </figure>
+
                         <h4>Gonzalo Panizo</h4>
-                        <p>PhD. Matem&aacutetica Pura</p>
+ 
+                       <p>PhD. Matem&aacutetica Pura</p>
+
 			<p>(IMPA-Brasil)</p>
+
                         <ul class="social-block">
 
-                            <li><a href=""http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=0a57f731d8f19e91a96dd3446392?id_investigador=14546><i class="ion-social-googleplus"></i></a></li>
+
+                            <li><a href="http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=0a57f731d8f19e91a96dd3446392?id_investigador=14546"><i class="ion-link"></i></a></li>
+
                         </ul>
+
                     </div>
+
                 </div>
-            </div>
 
             </div>
+
+
+            </div>
+
         </div>
-    </section>
+    
+
+</section>
+
+
+
+
     
     <section id="proyectos" class="section about">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
+ 
+		<div class="container">
 
-                    <h3 class="section-title">Proyectos de Investigaci&oacuten</h3>
+			<div class="row">
+				 <div class="col-sm-6">
+
+
+			                   <h3 class="section-title">Proyectos de Investigaci&oacuten</h3>
+
                 
                 </div>
-            </div>
+   
+			</div>
 
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="speaker">
+     
+       <div class="row">
+ 
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
 
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/grupo1.jpg">
-                        </figure>
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/grupo1.jpg">
+ </figure>
 
-                        <h4>Cristian Vergara y Alexander Villar</h4>
+ 
+                       <h4>Alexander Villar y Cristian Vergara</h4>
 
-                        <p>"Stochastic Optimization in asset pricing and portfolio choice"</p>
+    
+			<p>"Risk Modeling in insurance: Stability of Insurance Activity"</p>
 			<p>Asesor: Helder Rojas</p>
 
-                        <ul class="social-block">
-			
-                        </ul>
+               </div><!-- /.speaker -->
 
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
+               </div><!-- /.col-md-4 -->
 
-                <div class="col-sm-6">
-                    <div class="speaker">
 
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/grupo2.jpg">
-                        </figure>
+   <div class="col-sm-6">
+ 
+	 <div class="speaker">
+
+  
+           <figure>
+   <img alt="" class="img-responsive center-block" src="assets/images/grupo2.jpg">
+ </figure>
+
 
                         <h4>Ricardo Quiroz y Alberto Tiahuallpa</h4>
 
-                        <p>"Stochastic Optimization in asset pricing and portfolio choice"</p>
+
+			 <p>"Stochastic Optimization in asset pricing and portfolio choice"</p>
+
 			<p>Asesor: Helder Rojas</p>
+		</div><!-- /.speaker -->
+   
+            </div><!-- /.col-md-4 -->
 
-                        <ul class="social-block">
-                            <li><a href="https://sites.google.com/site/cabantovalle/research"><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-            </div><!-- /.row -->
-
-            <div class="row">
-                <div class="col-sm-6">
-
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/grupo3.jpg">
-                        </figure>
-
-                        <h4>Christian Amao y Aron Paz</h4>
-
-                        <p>"Stability dynamics of the order book in high frequency markets"</p>
-			<p>Asesor: Helder Rojas</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://uk.linkedin.com/in/vilma-susana-romero-romero"><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href="https://vilmaromero.github.io/"><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="assets/images/grupo4.jpg">
-                        </figure>
-
-                        <h4>Cristian Fischer, Fabrizzio Vasquez y Karen Velasquez</h4>
-
-                        <p>"Bayesian estimation in accidents insurance: An application of credibility theory"</p>
-			<p>Asesor: Carlos Abanto</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://uk.linkedin.com/in/erick-chacon-montalvan-7bba9141"><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href="https://erickchacon.github.io/"><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-
-                    </div>
-                </div>
-
-             </div>
-            </div>
-	    
-        </div>
-    </section>
+ 
+           </div><!-- /.row -->
 
    
 
+         <div class="row">
+
+	 <div class="col-sm-6">
+	<div class="speaker">
+	<figure>
+
+	<img alt="" class="img-responsive center-block" src="assets/images/grupo3.jpg">
+
+	</figure>
+	<h4>Christian Amao y Aron Paz</h4>
+	<p>"Stability dynamics of the order book in high frequency markets"</p>
+
+	<p>Asesor: Helder Rojas</p>
+
+         </div>
+  
+         </div>
+
+	
+	<div class="col-sm-6">
+	<div class="speaker">
 
 
-<section id="registration" class="section registration">
-        <div class="container">
-            <div class="row">
+	<figure>
+	<img alt="" class="img-responsive center-block" src="assets/images/grupo4.jpg">
 
-                    <h3 class="section-title">Inscripcion al Evento</h3>
+	</figure>
 
-                     <p align="justify"> Para registrarte en el CIPEFA 2017 y asistir a nuestros minicursos y ponencias debes llenar el siguiente formulario:	</p>
-                    
-		     <p align="justify"> Aqui va el formulario		     </p>
-		   
-
-		</div><!-- /.row -->
-        </div><!-- /.container -->
-    </section>
+	<h4>Cristian Fischer, Karen Velasquez y Fabrizzio Vasquez</h4>
 
 
+	<p>"Bayesian estimation in accidents insurance: An application of credibility theory"</p>
+	<p>Asesor: Carlos Abanto</p>
+	 </div>
 
+	</div>
 
+	</div>
+ 
+	</div>
 
+	</div>
 
+	</section>
 
+   
     <section id="contribution" class="section bg-image-2 contribution">
         <div class="container">
             <div class="row">
@@ -536,74 +717,177 @@
                     
                     <p>Si quiere presentar su poster en el CIPEFA 2017, env&#237enos su trabajo y pronto estaremos en contacto con usted.</p>
 
-                    <a class="btn btn-white" href="#faq">Ver el proceso de Presentacion de Poster</a>
+                    <a class="btn btn-white" href="#faq">Ver el proceso de Presentaci&oacute;n de Poster</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="schedule" class="section schedule">
+
+<section id="registration" class="section registration">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <h3 class="section-title">Programacion de Actividades</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="schedule-box">
-                        <div class="time">
-                            <time datetime="09:00">09:00 am</time> - <time datetime="22:00">10:00 am</time>
-                        </div>
-                        <h3>Welcome and intro</h3>
-                        <p>Mustafizur Khan, SD Asia</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="schedule-box">
-                        <div class="time">
-                            <time datetime="10:00">10:00 am</time> - <time datetime="22:00">10:00 am</time>
-                        </div>
-                        <h3>Tips and share</h3>
-                        <p>Mustafizur Khan, SD Asia</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="schedule-box">
-                        <div class="time">
-                            <time datetime="10:00">10:00 am</time> - <time datetime="22:00">10:00 am</time>
-                        </div>
-                        <h3>View from the top</h3>
-                        <p>Mustafizur Khan, SD Asia</p>
-                    </div>
-                </div>
-            </div>
+
+                    <h3 class="section-title">Inscripci&oacute;n al Evento</h3>
+
+                     <p align="justify"> Para registrarte en el CIPEFA 2017 y asistir a nuestros minicursos y ponencias debes llenar el siguiente formulario:	</p>
+                    
+		     <p align="center">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYiml5O47jHz_e1AV80okZIGiyNBzxHDRuStOqW54hll9phA/viewform"> Formulario de Inscripci&oacute;n</a>  </p>
+		   
+			<figure>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYiml5O47jHz_e1AV80okZIGiyNBzxHDRuStOqW54hll9phA/viewform">
+			<img alt="" class="img-responsive" src="assets/images/sobre-nosotros.jpg">
+			</a>
+                    </figure>
+
+		</div><!-- /.row -->
+        </div><!-- /.container -->
     </section>
 
+
+
     <section id="partner" class="section partner">
-        <div class="container">
+
             <div class="row">
-                <div class="col-md-12">
-                    <h3 class="section-title">Patrocinadores</h3>
-                </div>
+                	<div class="col-md-12">
+                    		<h3 class="section-title">Patrocinadores</h3>
+                	</div>
             </div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <a class="partner-box partner-box-1"></a>
-                </div>
+            
 
-                <div class="col-sm-3">
-                    <a class="partner-box partner-box-3"></a>
-                </div>
-                <div class="col-sm-3">
-                    <a class="partner-box partner-box-4"></a>
-                </div>
+              <div class="row">
+              
 
-                <div class="col-sm-3">
-                    <a class="partner-box partner-box-5"></a>
-                </div>
-            </div>
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
 
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-3.png">
+ </figure>
+
+ 
+                       <h4>Instituto General de Investigaci&oacute;n - UNI</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+
+
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
+
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-4.png">
+ </figure>
+
+ 
+                       <h4>Centro de Tecnolog&#237as de Informaci&oacute;n y Comunicaciones</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
+
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-7.png">
+ </figure>
+
+ 
+                       <h4>Patronato UNI</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
+
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-8.png">
+ </figure>
+
+ 
+                       <h4>Universidad Nacional de Ingenier&#237a</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
+
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-5.png">
+ </figure>
+
+ 
+                       <h4>FIEECS - UNI</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
+
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-6.png">
+ </figure>
+
+ 
+                       <h4>Escuela Profesional de Ingenier&#237a Estad&#237stica</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+	       <div class="col-sm-6">
+  
+			<div class="speaker">
+
+ 
+                       <figure>
+  <img alt="" class="img-responsive center-block" src="assets/images/partner/partner-1.png">
+ </figure>
+
+ 
+                       <h4>Centro cultural karl pearson - FIEECS - UNI</h4>
+
+    
+               </div><!-- /.speaker -->
+
+               </div><!-- /.col-md-4 -->
+
+
+                </div>
     </section>
 
     <section id="faq" class="section faq">
@@ -656,12 +940,12 @@
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="headingFour">
                                 <h4 class="panel-title">
-                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> &iquestEn que parte de la UNI se dictar&#225n las ponencias?</a>
+                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> &iquestEn qu&eacute; parte de la UNI se dictar&#225n las ponencias?</a>
                                 </h4>
                             </div>
 
                             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                                <div class="panel-body">Todas las ponencias y minicursos seran dadas dentro de la Universidad Nacional de Ingenieria en dos lugares principales:<br><br> Lugar 1: Auditorio de la Facultad de Ingenieria Economica, Estadistica y Ciencias Sociales (FIEECS) <br>Lugar 2: Centro de Tecnologias de Informacion y Comunicaciones (CTIC)</div>
+                                <div class="panel-body">Todas las ponencias y minicursos ser&aacute;n dadas dentro de la Universidad Nacional de Ingenier&iacute;a en dos lugares principales:<br><br> Lugar 1: Auditorio de la Facultad de Ingenier&iacute;a Econ&oacute;mica, Estad&iacute;stica y Ciencias Sociales (FIEECS) <br>Lugar 2: Centro de Tecnolog&iacute;as de Informaci&oacute;n y Comunicaciones (CTIC)</div>
                             </div>
                         </div>
 
@@ -685,7 +969,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Galeria</h3>
+                    <h3 class="section-title">Galer&iacute;a</h3>
                 </div>
             </div>
             <div class="row">
@@ -723,8 +1007,8 @@
     <section id="location" class="section location">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3">
-                    <h3 class="section-title">Ubicacion del evento</h3>
+                <div class="col-sm-2">
+                    <h3 class="section-title">Ubicaci&oacute;n del evento</h3>
                     <address>
                         <p>Universidad Nacional de Ingenier&#237a<br><br> Lugar 1: FIEECS<br>Lugar 2: CTIC<br><br> Av. T&#250pac Amaru 210<br> R&#237mac, Lima<br><br> E-mail: cipefa2017@gmail.com</p>
                     </address>
@@ -739,6 +1023,66 @@
             </div>
         </div>
     </section>
+
+
+<section id="comite" class="section comite">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+
+                    <h3 class="section-title"> COMIT&#201 EJECUTIVO </h3>
+
+                     <ul class="list-arrow-right">
+
+                        <li> Helder Rojas</li>
+                        <li> Lesly Basualdo </li>
+                        <li> Sherly Tarazona </li>
+                        <li> Alberto Tiahuallpa </li>
+                        <li> Aron Paz </li>
+                        <li> Christian Amao </li>
+                        <li> Cristian Vergara </li>
+                        <li> Cristian Fischer </li>
+                        <li> Fabrizzio Vasquez </li>
+
+                    	
+                    </ul>
+                    
+
+
+                </div><!-- /.col-sm-6 -->
+
+                <div class="col-sm-6">
+
+                    <h3 class="section-title multiple-title"> COMIT&#201 COLABORADOR</h3>
+
+
+                     <ul class="list-arrow-right">
+
+                        <li> Alex Joel</li>
+                        <li> Cesar Ponce </li>
+                        <li> Cruz Del Pilar </li>
+                        <li> Jesus Evangelista </li>
+                        <li> Jesus Garcia </li>
+                        <li> Joel Simon </li>
+                        <li> Karen Barrozo </li>
+                        <li> Karen Velasquez </li>
+                        <li> Kevin Cordova </li>
+                        <li> Luis Mesia </li>
+                        <li> Luis Vigo </li>
+                        <li> Mario Quispe </li>
+                        <li> Monica Caruajulca </li>
+                        <li> Nicko Villar </li>
+                        <li> Ricardo Quiroz </li>
+                        <li> Vilma Romero </li>
+                    	
+                    </ul>
+		    
+                </div><!-- /.col-sm-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
+
 
     <footer class="site-footer">
         <div class="container">
@@ -760,3 +1104,4 @@
     <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
     <script src="assets/js/main.js"></script>
 </body>
+</html>
